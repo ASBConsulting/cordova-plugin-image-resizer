@@ -1,7 +1,7 @@
 {
-  "name": "cordova-plugin-simple-image-resizer",
+  "name": "cordova-plugin-simple-image-resizer-asb",
   "version": "0.2.0",
-  "description": "Plugin for resizing images only with the uri of the image.",
+  "description": "ASB Fork - Don't use! Plugin for resizing images only with the uri of the image.",
   "cordova": {
     "id": "cordova-plugin-simple-image-resizer",
     "platforms": [
